@@ -28,19 +28,21 @@ Resolution – Final updates are sent, and the ticket is closed.
 
 🔍 Lifecycle Demonstration with Screenshots
 1️⃣ Ticket Intake
-<p align="center"> <img src="https://i.imgur.com/DJmEXEB.png" width="80%" alt="Ticket Intake Screenshot"/> </p>
+]![image](https://github.com/user-attachments/assets/5b1ffcd0-9921-48aa-84c7-15f5c8809685)
+
 A user creates a new ticket via the osTicket client portal. The system generates a unique ticket ID and logs the issue details.
 
 2️⃣ Assignment & Initial Response
-<p align="center"> <img src="https://i.imgur.com/DJmEXEB.png" width="80%" alt="Assignment Screenshot"/> </p>
+![image](https://github.com/user-attachments/assets/7d2d078f-af86-4bfd-afed-d53ed8cda0fd)
+
 The ticket is automatically or manually assigned to a help desk agent. The agent begins communication with the user to gather more context.
 
 3️⃣ Troubleshooting & Updates
-<p align="center"> <img src="https://i.imgur.com/DJmEXEB.png" width="80%" alt="Troubleshooting Screenshot"/> </p>
+
 The issue is actively worked. The agent may request more information, perform troubleshooting, and update the ticket status accordingly.
 
 4️⃣ Ticket Resolution and Closure
-<p align="center"> <img src="https://i.imgur.com/DJmEXEB.png" width="80%" alt="Resolution Screenshot"/> </p>
+
 Once the issue is resolved, the agent documents the solution, updates the ticket as resolved, and the user is notified of closure.
 
 ✅ Summary
